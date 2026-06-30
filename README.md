@@ -5,7 +5,7 @@ Data Science
 
 ##  Objective
 
-The objective of this project is to develop a machine learning model that predicts whether a passenger survived the Titanic disaster based on features such as age, gender, passenger class, fare, and family information. This project demonstrates the complete machine learning pipeline from data preprocessing to model evaluation.
+The objective of this project is to develop a machine learning model that predicts whether a passenger survived the Titanic disaster based on features such as age, gender, passenger class, fare, and family information. 
 
 
 ##  Dataset
